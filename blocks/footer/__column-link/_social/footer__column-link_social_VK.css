@@ -1,0 +1,7 @@
+.footer__column-link_social_VK::before {
+  content: url(../../../../images/vk_color_white.svg);
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  vertical-align: middle;
+}

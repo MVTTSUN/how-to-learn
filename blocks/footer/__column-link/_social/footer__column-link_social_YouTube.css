@@ -1,0 +1,7 @@
+.footer__column-link_social_YouTube::before {
+  content: url(../../../../images/youtube-icon.svg);
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
