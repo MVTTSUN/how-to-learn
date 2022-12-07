@@ -5,7 +5,7 @@
 /* Миксы */
 
 @import url(../blocks/link/link.css);
-@import url(../blocks/list-reset/list.reset.css);
+@import url(../blocks/list-normalize/list-normalize.css);
 @import url(../blocks/rotation/rotation.css);
 
 /* Остальные блоки */
