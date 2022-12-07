@@ -1,4 +1,4 @@
 .video__iframes {
-  text-align: center;
-  font-size: 0;
+  display: flex;
+  justify-content: center;
 }
