@@ -1,5 +1,9 @@
 .resources__logo-zone {
   margin: 0 auto;
-  display: flex;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   max-width: 1100px;
+  text-align: center;
 }

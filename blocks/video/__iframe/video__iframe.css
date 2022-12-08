@@ -2,11 +2,4 @@
   width: 515px;
   height: 316px;
   border: 0;
-  position: relative;
-  bottom: -50px;
-  z-index: 1;
-}
-
-.video__iframe:not(:last-child) {
-  margin-right: 20px;
 }

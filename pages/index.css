@@ -5,7 +5,6 @@
 /* Миксы */
 
 @import url(../blocks/link/link.css);
-@import url(../blocks/list-normalize/list-normalize.css);
 @import url(../blocks/rotation/rotation.css);
 
 /* Остальные блоки */
@@ -26,7 +25,6 @@
 
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
-@import url(../blocks/section-subtitle/_section/section-subtitle_section_video.css);
 @import url(../blocks/section-subtitle/_section/section-subtitle_section_resources.css);
 
 @import url(../blocks/table/table.css);
@@ -54,6 +52,7 @@
 
 @import url(../blocks/techniques/techniques.css);
 
+@import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 
@@ -82,7 +81,6 @@
 
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
-@import url(../blocks/resources/__link/resources__link.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
@@ -90,8 +88,7 @@
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
-@import url(../blocks/footer/__column-link/footer_column-link.css);
-@import url(../blocks/footer/__column-link/_social/footer__column-link_social_TikTok.css);
-@import url(../blocks/footer/__column-link/_social/footer__column-link_social_VK.css);
-@import url(../blocks/footer/__column-link/_social/footer__column-link_social_YouTube.css);
-@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);
+@import url(../blocks/footer/__column-link/_social/footer__column-link_social_tiktok.css);
+@import url(../blocks/footer/__column-link/_social/footer__column-link_social_vk.css);
+@import url(../blocks/footer/__column-link/_social/footer__column-link_social_youtube.css);
